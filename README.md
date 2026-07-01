@@ -2,7 +2,7 @@
 
 A clean, distraction-free markdown notes app built with React. Write in markdown, see it rendered live, organize with tags, and search across all your notes.
 
-**🔗 Live Demo:** [your-vercel-link-here]
+**🔗 Live Demo:** (https://notewise-five.vercel.app/)
 
 ## Features
 
